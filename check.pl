@@ -12,7 +12,7 @@ my $jobs= LoadFile("jobs.yaml");
 my $ok=0;
 
 foreach my $job (@$jobs) {
-	print $job->{file},"\t";
+	printf ("%-30s  ",$job->{file});
 	my $sha = Digest::SHA->new("SHA256");
 
 	#$sha->addfile($down."/".$job->{file});
@@ -20,8 +20,8 @@ foreach my $job (@$jobs) {
 	my $cont =get($job->{url});
 	$sha->add($cont);
 
-	my $res= $sha->hexdigest,"\n";
-	print $res,"\t";
+	my $res= $sha->hexdigest;
+	print $res,"  ";
 	#$job->{sha}=$res;
 
 	if ($job->{sha} ne $res) {
