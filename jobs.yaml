@@ -1,0 +1,19 @@
+---
+- file: cap-extjoin.pl
+  sha: 9ed3d376c4edae0cc36e26a80c2aa0c5755766cd67235501be8fc583ec9056a8
+  url: https://raw.githubusercontent.com/mquin/irssi-scripts/master/cap-extjoin.pl
+- file: quakequit.pl
+  sha: 96faf4b8ae7ad53ac4b532898d3413c04f3708c7fc2ec4512dd8cbc6c0302737
+  url: https://raw.githubusercontent.com/phyber/irssi-scripts/master/quakequit.pl
+- file: bantime.pl
+  sha: 9cca02a280cf66553ed0728aacead0f5b871d4af0afddacc3367834b6fb2f98d
+  url: https://raw.githubusercontent.com/phyber/irssi-scripts/master/bantime.pl
+- file: banaffects.pl
+  sha: 0dab6649b0c9e3a8210ff6a114aceae47adb2f88fba94ede3b3891be785fca42
+  url: http://tomaw.net/irssi/banaffects.pl
+- file: query_whois.pl
+  sha: 967fc552af4af581a907b160cabdd925151206bda8d8dac36019d694d0baefcc
+  url: http://explodingferret.com/linux/irssi/query_whois.pl
+- file: title.pl
+  sha: fdb0ffd12faa8f95f7754a31aedcbe9b9f385811b09cfdabbab2dca2da32aff5
+  url: https://dgl.cx/irssi/title.pl
