@@ -9,6 +9,8 @@ use LWP::Simple;
 my $down="down";
 my $jobs= LoadFile("jobs.yaml");
 
+my $ok=0;
+
 foreach my $job (@$jobs) {
 	print $job->{file},"\t";
 	my $sha = Digest::SHA->new("SHA256");
@@ -19,13 +21,18 @@ foreach my $job (@$jobs) {
 	$sha->add($cont);
 
 	my $res= $sha->hexdigest,"\n";
-	print $res,"\n";
+	print $res,"\t";
 	#$job->{sha}=$res;
 
 	if ($job->{sha} ne $res) {
-		print "Error!\n";
-	}
+		print "Change!";
+		$ok=1;
+	} 
+	
+	print "\n";
 }
+
+exit $ok;
 
 #print Dump($jobs);
 #DumpFile("jobs.yaml",$jobs);
