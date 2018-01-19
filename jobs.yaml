@@ -23,3 +23,6 @@
 - file: ack.pl
   sha: a929a82b5796882659deb8863d42ba941ef43e5814a100ffab8b07514734c8f4
   url: https://raw.githubusercontent.com/rcaputo/irssi-ack/master/ack.pl
+- file: trackbar.pl
+  sha: e2eb60c0500fdec59bbbe307449f024cfbcd582ec09149c0ed3c42b65ae33562
+  url: https://raw.githubusercontent.com/mjholtkamp/irssi-trackbar/master/trackbar.pl
