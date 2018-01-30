@@ -11,7 +11,7 @@ my $jobs= LoadFile("jobs.yaml");
 
 my $ok=0;
 
-foreach my $job (@$jobs) {
+foreach my $job (sort @$jobs) {
 	printf ("%-30s  ",$job->{file});
 	my $sha = Digest::SHA->new("SHA256");
 
