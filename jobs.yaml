@@ -1,31 +1,49 @@
 ---
 - file: cap-extjoin.pl
   sha: 9ed3d376c4edae0cc36e26a80c2aa0c5755766cd67235501be8fc583ec9056a8
+  size: 2455
   url: https://raw.githubusercontent.com/mquin/irssi-scripts/master/cap-extjoin.pl
 - file: quakequit.pl
   sha: 96faf4b8ae7ad53ac4b532898d3413c04f3708c7fc2ec4512dd8cbc6c0302737
+  size: 5425
   url: https://raw.githubusercontent.com/phyber/irssi-scripts/master/quakequit.pl
 - file: bantime.pl
   sha: 9cca02a280cf66553ed0728aacead0f5b871d4af0afddacc3367834b6fb2f98d
+  size: 3289
   url: https://raw.githubusercontent.com/phyber/irssi-scripts/master/bantime.pl
 - file: banaffects.pl
   sha: 0dab6649b0c9e3a8210ff6a114aceae47adb2f88fba94ede3b3891be785fca42
+  size: 1689
   url: http://tomaw.net/irssi/banaffects.pl
 - file: query_whois.pl
   sha: 967fc552af4af581a907b160cabdd925151206bda8d8dac36019d694d0baefcc
+  size: 682
   url: http://explodingferret.com/linux/irssi/query_whois.pl
 - file: title.pl
   sha: fdb0ffd12faa8f95f7754a31aedcbe9b9f385811b09cfdabbab2dca2da32aff5
+  size: 4297
   url: http://dgl.cx/irssi/title.pl
 - file: banaffects_sd.pl
   sha: f058617791bc702168e44427dce624193730ae8abd56800ab87fc822d420144b
+  size: 2442
   url: https://raw.githubusercontent.com/incognico/irssi-stuff/master/scripts/banaffects_sd.pl
 - file: ack.pl
   sha: a929a82b5796882659deb8863d42ba941ef43e5814a100ffab8b07514734c8f4
+  size: 1252
   url: https://raw.githubusercontent.com/rcaputo/irssi-ack/master/ack.pl
 - file: trackbar.pl
   sha: e2eb60c0500fdec59bbbe307449f024cfbcd582ec09149c0ed3c42b65ae33562
+  size: 14589
   url: https://raw.githubusercontent.com/mjholtkamp/irssi-trackbar/master/trackbar.pl
 - file: smartfilter.pl
   sha: ce90f4f1aeac4b6a85a09d2d0958ac5804dd3e805b922ca844718ba15afceddf
+  size: 3467
   url: https://raw.githubusercontent.com/lifeforms/irssi-smartfilter/master/smartfilter.pl
+- file: mirc_colour_popup.pl
+  sha: 7a018e108c3051d264b1ec9e2d11627facb579673a17bb04ef72c765da748200
+  size: 1240
+  url: https://raw.githubusercontent.com/shabble/irssi-scripts/master/colour-popup/colour_popup.pl
+- file: cap_sasl.pl
+  sha: 3e150bce53ed8126268cab242614ce82092dcae4aaa87e093714ae14ad93a14c
+  size: 11677
+  url: https://raw.githubusercontent.com/atheme/atheme/master/contrib/cap_sasl.pl
