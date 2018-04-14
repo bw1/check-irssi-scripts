@@ -47,3 +47,7 @@
   sha: 3e150bce53ed8126268cab242614ce82092dcae4aaa87e093714ae14ad93a14c
   size: 11677
   url: https://raw.githubusercontent.com/atheme/atheme/master/contrib/cap_sasl.pl
+- file: irssi-feed.pl
+  sha: 1bbed66675a0df30e991d651a6ea6c3f3d25699dd44627789f164dd2102fe4e4
+  size: 14647
+  url: https://github.com/jcaesar/irssi-feed/raw/master/irssi-feed.pl
