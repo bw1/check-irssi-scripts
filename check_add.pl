@@ -13,6 +13,7 @@ my $jobs= LoadFile("jobs.yaml");
 my $ok=0;
 
 if ($#ARGV != 1){
+	print "Usage: check_add.pl <filename> <url>\n";
 	exit(1);
 }
 
