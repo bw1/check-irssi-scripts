@@ -51,3 +51,7 @@
   sha: 1bbed66675a0df30e991d651a6ea6c3f3d25699dd44627789f164dd2102fe4e4
   size: 14647
   url: https://github.com/jcaesar/irssi-feed/raw/master/irssi-feed.pl
+- file: active_notice.pl
+  sha: 3a6ab701cfcd60e13a5e49e84f8b6125605e449dc529261999e330f175fc2de5
+  size: 4960
+  url: https://github.com/GeertHauwaerts/irssi-scripts/raw/master/src/active_notice.pl
