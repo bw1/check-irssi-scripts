@@ -55,3 +55,7 @@
   sha: 3a6ab701cfcd60e13a5e49e84f8b6125605e449dc529261999e330f175fc2de5
   size: 4960
   url: https://github.com/GeertHauwaerts/irssi-scripts/raw/master/src/active_notice.pl
+- file: away_hilight_notice.pl
+  sha: f74955186885779e0bf4d31bfe40a44adc2a948968e87d14c6208894437325df
+  size: 5570
+  url: https://github.com/GeertHauwaerts/irssi-scripts/raw/master/src/away_hilight_notice.pl
