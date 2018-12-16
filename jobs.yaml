@@ -15,10 +15,6 @@
   sha: 0dab6649b0c9e3a8210ff6a114aceae47adb2f88fba94ede3b3891be785fca42
   size: 1689
   url: http://tomaw.net/irssi/banaffects.pl
-  # - file: query_whois.pl
-  #   sha: 967fc552af4af581a907b160cabdd925151206bda8d8dac36019d694d0baefcc
-  #   size: 682
-  #   url: http://explodingferret.com/linux/irssi/query_whois.pl
 - file: title.pl
   sha: fdb0ffd12faa8f95f7754a31aedcbe9b9f385811b09cfdabbab2dca2da32aff5
   size: 4297
@@ -59,3 +55,7 @@
   sha: f74955186885779e0bf4d31bfe40a44adc2a948968e87d14c6208894437325df
   size: 5570
   url: https://github.com/GeertHauwaerts/irssi-scripts/raw/master/src/away_hilight_notice.pl
+- file: log2ansi.pl
+  sha: 77a1eb3b29a43259a0ce8e162a5289fa3db278578f9e358f2e64efe43c3b3596
+  size: 6351
+  url: https://ninja.no/irssi/log2ansi
