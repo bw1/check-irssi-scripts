@@ -19,10 +19,6 @@
   sha: fdb0ffd12faa8f95f7754a31aedcbe9b9f385811b09cfdabbab2dca2da32aff5
   size: 4297
   url: http://dgl.cx/irssi/title.pl
-- file: banaffects_sd.pl
-  sha: f058617791bc702168e44427dce624193730ae8abd56800ab87fc822d420144b
-  size: 2442
-  url: https://raw.githubusercontent.com/incognico/irssi-stuff/master/scripts/banaffects_sd.pl
 - file: ack.pl
   sha: a929a82b5796882659deb8863d42ba941ef43e5814a100ffab8b07514734c8f4
   size: 1252
