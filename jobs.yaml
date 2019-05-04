@@ -67,3 +67,7 @@
   sha: 91dcea4abc56b32ddc1b653f9299e2748ad9aa222ae368cd2299c102079c3e16
   size: 2123
   url: https://raw.githubusercontent.com/timing/irssi-scripts/master/bitlbee_blist.pl
+- file: keepnick.pl
+  sha: d363b7a8b87a1d804ba8e6b22bbb1f162103615725de75b9182bccb3efcb196d
+  size: 12805
+  url: https://ninja.no/irssi/keepnick.pl
