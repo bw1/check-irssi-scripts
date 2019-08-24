@@ -1,0 +1,18 @@
+name: check
+
+on: 
+  push:
+  schedule:
+     - cron: '0 12 * * 0'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@master
+    - name: apt-get
+      run: sudo apt-get install -q libyaml-perl
+    - name: check scripts
+      run: perl ~/work/check-irssi-scripts/check-irssi-scripts/check.pl
