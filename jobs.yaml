@@ -59,10 +59,6 @@
   sha: f4b66dc58626daac906e0982bdcc5061c49eacfaa7dad0bf2082908fe3e16926
   size: 24673
   url: https://github.com/compengi/cirssi/raw/master/Cirssi.pl
-- file: urlfeed.pl
-  sha: 78c41632670719d48f346ecad64d58719314e6b8d640c990eaed8d43e462257b
-  size: 8215
-  url: http://toxcorp.com/irc/irssi/urlfeed/urlfeed.pl
 - file: bitlbee_blist.pl
   sha: 91dcea4abc56b32ddc1b653f9299e2748ad9aa222ae368cd2299c102079c3e16
   size: 2123
