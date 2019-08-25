@@ -1,7 +1,0 @@
-language: perl
-perl: 
-  - "5.22"
-before_install:
-  - cpanm YAML # optional dependency
-install: true
-script: "perl check.pl"
