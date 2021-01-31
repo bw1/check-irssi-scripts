@@ -67,3 +67,7 @@
   sha: d363b7a8b87a1d804ba8e6b22bbb1f162103615725de75b9182bccb3efcb196d
   size: 12805
   url: https://ninja.no/irssi/keepnick.pl
+- file: lastfm.pl
+  sha: 3725a3ecb543ee6cc690a2bc0df63081dd3e3032654ea755985cf71ae3b1e051
+  size: 19614
+  url: https://github.com/simmel/irssi-scripts/raw/master/lastfm.pl
