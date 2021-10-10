@@ -51,10 +51,6 @@
   sha: f74955186885779e0bf4d31bfe40a44adc2a948968e87d14c6208894437325df
   size: 5570
   url: https://github.com/GeertHauwaerts/irssi-scripts/raw/master/src/away_hilight_notice.pl
-- file: log2ansi.pl
-  sha: 77a1eb3b29a43259a0ce8e162a5289fa3db278578f9e358f2e64efe43c3b3596
-  size: 6351
-  url: https://ninja.no/irssi/log2ansi
 - file: Cirssi.pl
   sha: f4b66dc58626daac906e0982bdcc5061c49eacfaa7dad0bf2082908fe3e16926
   size: 24673
@@ -63,11 +59,15 @@
   sha: 91dcea4abc56b32ddc1b653f9299e2748ad9aa222ae368cd2299c102079c3e16
   size: 2123
   url: https://raw.githubusercontent.com/timing/irssi-scripts/master/bitlbee_blist.pl
-- file: keepnick.pl
-  sha: d363b7a8b87a1d804ba8e6b22bbb1f162103615725de75b9182bccb3efcb196d
-  size: 12805
-  url: https://ninja.no/irssi/keepnick.pl
 - file: lastfm.pl
   sha: 3725a3ecb543ee6cc690a2bc0df63081dd3e3032654ea755985cf71ae3b1e051
   size: 19614
   url: https://github.com/simmel/irssi-scripts/raw/master/lastfm.pl
+- file: keepnick.pl
+  sha: 810d592ee78a9f591bfd09e721c0beac11582cca3ef196b7c94e102ab71e1837
+  size: 10265
+  url: https://ninja.no/irssi/keepnick.pl
+- file: log2ansi.pl
+  sha: d1daf9e4fc58ab8c469af178741c65bc2ee8d7c4e28a339ca9964616cdaad423
+  size: 8487
+  url: https://ninja.no/irssi/log2ansi
