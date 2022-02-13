@@ -72,6 +72,6 @@
   size: 8487
   url: https://ninja.no/irssi/log2ansi
 - file: spellcheck.pl
-  sha: c885a4d3e4cc429203e0435ff23c764675bb662639dece1c8035650d200d74a1
-  size: 9610
+  sha: 9c2d51a1590381280bc5a386e12592a4d7f41f448dab27d71e575e051dde9662
+  size: 9611
   url: https://github.com/jwilk/irssi-spellcheck/raw/master/spellcheck.pl
