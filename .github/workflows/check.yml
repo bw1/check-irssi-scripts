@@ -13,6 +13,6 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: apt-get
-      run: sudo apt-get install -q libyaml-perl
+      run: sudo apt-get install -q libyaml-perl liblwp-protocol-https-perl
     - name: check scripts
       run: perl ~/work/check-irssi-scripts/check-irssi-scripts/check.pl
