@@ -3,7 +3,7 @@ name: check
 on: 
   push:
   schedule:
-     - cron: '0 12 * * 0'
+   - cron: '0 3 * * 6'
 
 jobs:
   build:
